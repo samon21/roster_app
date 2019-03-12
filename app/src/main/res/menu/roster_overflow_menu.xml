@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemaddpersonnel"
+        android:title="ADD_PERSONNEL" />
+    <item
+        android:id="@+id/itemremovepersonnel"
+        android:title="REMOVE_PERSONNEL" />
+    <item
+        android:id="@+id/itemfactoryreset"
+        android:title="FACTORY_RESET" />
+</menu>
